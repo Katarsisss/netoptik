@@ -187,7 +187,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 .dtr-meta-category { background-color: #ff0018; color: #fff; }
 .dtr-meta-category a, .dtr-meta-category a:hover { color: #fff; }
 .dtr-read-more, .dtr-read-more:hover { color: #ff0018; }
-.dtr-read-more::before { background-color: #ff0018; }
+.dtr-read-more::before { background-color: white; margin-left: 11px;}
 /*== process bar ==*/
 .dtr-process-bar { background-color: #fff; }
 /*== Servicebox ==*/
