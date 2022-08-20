@@ -839,3 +839,7 @@ form label.error { font-size: 10px; }
 #team .dtr-pb-100, .dtr-py-100{
 	padding-bottom: 77px !important;
 }
+
+.dtr-logo-sub img{
+   width: 90px;
+}
